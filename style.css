@@ -16,3 +16,22 @@
     border-radius: 8px;
     cursor: pointer;
 }
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: rgb(186, 18, 68);
+}
+.cat3{
+    background-color: blue;
+}
+.container h1{
+    color: white;
+}
+.container img{
+    width: 100px;
+}
